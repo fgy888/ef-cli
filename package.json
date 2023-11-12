@@ -1,6 +1,6 @@
 {
-  "name": "ef-cli",
-  "version": "1.0.1",
+  "name": "@emmafgy/cli",
+  "version": "1.0.0",
   "description": "ef-cli",
   "main": "index.js",
   "bin": {

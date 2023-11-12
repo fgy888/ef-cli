@@ -6,7 +6,7 @@
 
 ## 安装
 ```bash
-npm install -g ef-cli
+npm install -g @emmafgy/cli
 ```
 
 ## 使用
