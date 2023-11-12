@@ -4,9 +4,16 @@
 - 功能: 支持下载模板 `create` 命令
 - 全局命令可使用 `ef-cli`
 
+## 安装
+```bash
+npm install -g ef-cli
+```
+
 ## 使用
 
-目前主要功能为 create 命令，使用方法类似 vue-cli
+```bash
+ef-cli create <projectName>
+```
 
 ## 采用三方模块
 

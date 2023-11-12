@@ -1,7 +1,7 @@
 {
   "name": "ef-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "ef-cli",
   "main": "index.js",
   "bin": {
     "ef-cli": "./bin/zc"
@@ -19,6 +19,10 @@
     "ef-cli",
     "前端脚手架"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgy888/ef-cli.git"
+  },
   "author": {
     "name": "fuguiyong",
     "email": "760720981@qq.com"
