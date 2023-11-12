@@ -1,11 +1,10 @@
 {
-  "name": "zcxiaobao-cli",
-  "version": "1.0.2",
+  "name": "ef-cli",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "zc": "./bin/zc",
-    "zc-cli": "./bin/zc"
+    "ef-cli": "./bin/zc"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,12 +16,12 @@
   ],
   "keywords": [
     "cli",
-    "zc-cli",
-    "脚手架"
+    "ef-cli",
+    "前端脚手架"
   ],
   "author": {
-    "name": "zcxiaobao",
-    "email": "444186976@qq.com"
+    "name": "fuguiyong",
+    "email": "760720981@qq.com"
   },
   "license": "ISC",
   "dependencies": {
@@ -34,6 +33,5 @@
     "fs-extra": "^10.0.1",
     "inquirer": "^8.2.1",
     "ora": "^5.0.0"
-  },
-  "devDependencies": {}
+  }
 }

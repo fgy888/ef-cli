@@ -1,14 +1,12 @@
-## zcxiaobao-cli 脚手架
+## ef-cli 脚手架
 
-- 版本 1.0.1
+- 版本 1.0.0
 - 功能: 支持下载模板 `create` 命令
-- 全局命令可使用 `zc` 或 `zc-cli`
+- 全局命令可使用 `ef-cli`
 
 ## 使用
 
-目前主要功能为 create 命令，使用方法类似 vue-cli，具体可以参考动图。
-
-![](./images/zcxiaobao-cli.gif)
+目前主要功能为 create 命令，使用方法类似 vue-cli
 
 ## 采用三方模块
 
